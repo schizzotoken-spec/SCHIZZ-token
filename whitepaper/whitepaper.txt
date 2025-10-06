@@ -1,1 +1,31 @@
+# $Schizzo – Whitepaper
 
+Token: SCHIZZ  
+Network: Ethereum Mainnet  
+Total Supply: 100,000,000 (fixed, no minting)  
+Mascot: Schizzo the Cat  
+Type: Meme token, community-driven  
+Trading: Available on Uniswap
+
+## Vision
+
+$Schizzo is a meme token created purely for fun.  
+No utility, no promises—just transparency, decentralization, and community spirit.  
+The face of the project is Schizzo, a unpredictable cat leading the meme revolution.
+
+## Distribution & Liquidity
+
+- Airdrop: Partial supply distributed to the community  
+- Uniswap: Small initial liquidity added to enable trading  
+- Vesting: ~99% of the supply is locked in a linear vesting contract over 7 years  
+  - Team Allocation: 10% reserved for the team  
+  - Start Timestamp: 1760076000 (Unix time)  
+  - Duration: 220752000 seconds (~7 years)  
+  - Mechanism: Linear, transparent, immutable, managed via Ethereum smart contract
+
+## Security & Ownership
+
+- Contract deployed on Ethereum  
+- Ownership is symbolic—no operational privileges  
+- No minting, freezing, blacklisting, or admin controls  
+- Everything is verifiable on-chain
